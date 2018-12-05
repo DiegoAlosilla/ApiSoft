@@ -1,0 +1,10 @@
+c:\users\usuario\source\repos\ApiSoft\ApiSoft\bin\Debug\ApiSoft.exe.config
+c:\users\usuario\source\repos\ApiSoft\ApiSoft\bin\Debug\ApiSoft.exe
+c:\users\usuario\source\repos\ApiSoft\ApiSoft\bin\Debug\ApiSoft.pdb
+c:\users\usuario\source\repos\ApiSoft\ApiSoft\obj\Debug\ApiSoft.csprojResolveAssemblyReference.cache
+c:\users\usuario\source\repos\ApiSoft\ApiSoft\obj\Debug\ApiSoft.Properties.Resources.resources
+c:\users\usuario\source\repos\ApiSoft\ApiSoft\obj\Debug\ApiSoft.csproj.GenerateResource.cache
+c:\users\usuario\source\repos\ApiSoft\ApiSoft\obj\Debug\ApiSoft.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\ApiSoft\ApiSoft\obj\Debug\ApiSoft.exe
+c:\users\usuario\source\repos\ApiSoft\ApiSoft\obj\Debug\ApiSoft.pdb
+c:\users\usuario\source\repos\ApiSoft\ApiSoft\obj\Debug\ApiSoft.Principal.resources
