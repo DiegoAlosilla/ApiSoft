@@ -51,6 +51,8 @@ namespace ApiSoft
                 int i = colmenaNe.RegistrarColmena(colmena,pictureBox1);
                 MessageBox.Show("Colmena Guardada " + MessageBoxButtons.OK);
                 this.Hide();
+                FormListarColmenas frm = new FormListarColmenas();
+                frm.ShowDialog();
             }
             catch(Exception exception)
             {

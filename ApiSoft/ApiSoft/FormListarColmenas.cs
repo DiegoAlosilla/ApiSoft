@@ -25,7 +25,9 @@ namespace ApiSoft
 
         private void FormListarColmenas_Load(object sender, EventArgs e)
         {
+
             dataGridViewColmenas.DataSource = colmenaNE.ListarColmenas();
+            dataGridViewColmenas.Columns["Imagen"].Visible = false;
         }
 
         private void btnVolver_Click(object sender, EventArgs e)
