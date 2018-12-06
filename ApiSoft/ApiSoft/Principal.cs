@@ -19,15 +19,16 @@ namespace ApiSoft
         int posX, posY = 0;
         private void pictureBoxPanal_MouseHover(object sender, EventArgs e)
         {
-            pictureBoxPanal.Location = new Point(366, 186);
-            pictureBoxPanal.Size = new Size(70, 60);
+            pictureBoxPanal.Location = new Point(352, 175);
+            pictureBoxPanal.Size = new Size(95, 83);
             this.pictureBoxPanal.Cursor = System.Windows.Forms.Cursors.Hand;
         }
 
         private void pictureBoxPanal_MouseLeave(object sender, EventArgs e)
         {
-            pictureBoxPanal.Location = new Point(371, 191);
-            pictureBoxPanal.Size = new Size(60, 50);
+          
+            pictureBoxPanal.Location = new Point(357, 180);
+            pictureBoxPanal.Size = new Size(85, 73);
         }
 
         private void pictureBoxPanal_Click(object sender, EventArgs e)

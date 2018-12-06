@@ -24,3 +24,6 @@ C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\bin\Debug\CapaNegocios
 C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\bin\Debug\CapaDatos.pdb
 C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\obj\Debug\ApiSoft.FormListarColmenas.resources
 C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\obj\Debug\ApiSoft.csproj.CopyComplete
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\obj\Debug\ApiSoft.FormRegistrarColmena.resources
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\bin\Debug\CapaEntidad.pdb

@@ -28,6 +28,20 @@ namespace ApiSoft
             dataGridViewColmenas.DataSource = colmenaNE.ListarColmenas();
         }
 
+        private void btnVolver_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Principal fmr = new Principal();
+            fmr.ShowDialog();
+        }
+
+        private void btnNuevaColmena_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FormRegistrarColmena fmr = new FormRegistrarColmena();
+            fmr.ShowDialog();
+        }
+
         private void panelTitulo_MouseMove(object sender, MouseEventArgs e)
         {
             if (e.Button != MouseButtons.Left)

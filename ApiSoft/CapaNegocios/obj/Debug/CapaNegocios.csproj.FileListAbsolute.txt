@@ -7,3 +7,5 @@ C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaNegocios\obj\Debug\CapaNeg
 C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
 C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaNegocios\obj\Debug\CapaNegocios.dll
 C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaNegocios\bin\Debug\CapaEntidad.pdb

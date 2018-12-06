@@ -1,0 +1,6 @@
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaEntidad\obj\Debug\CapaEntidad.pdb

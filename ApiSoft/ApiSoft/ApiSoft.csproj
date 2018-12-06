@@ -51,6 +51,12 @@
     <Compile Include="FormListarColmenas.Designer.cs">
       <DependentUpon>FormListarColmenas.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormRegistrarColmena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRegistrarColmena.Designer.cs">
+      <DependentUpon>FormRegistrarColmena.cs</DependentUpon>
+    </Compile>
     <Compile Include="Principal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -61,6 +67,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormListarColmenas.resx">
       <DependentUpon>FormListarColmenas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRegistrarColmena.resx">
+      <DependentUpon>FormRegistrarColmena.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Principal.resx">
       <DependentUpon>Principal.cs</DependentUpon>
@@ -90,6 +99,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
+      <Project>{512FA760-57CC-43DF-B52D-629CA4FB7319}</Project>
+      <Name>CapaEntidad</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CapaNegocios\CapaNegocios.csproj">
       <Project>{A0B703A1-E408-404C-928E-4C294E0E6061}</Project>
       <Name>CapaNegocios</Name>

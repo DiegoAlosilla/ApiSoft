@@ -4,3 +4,6 @@ C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaDatos\bin\Debug\CapaDatos.
 C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaDatos\bin\Debug\CapaDatos.pdb
 C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete

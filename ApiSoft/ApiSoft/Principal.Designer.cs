@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Principal));
             this.panelTitulo = new System.Windows.Forms.Panel();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
@@ -35,6 +36,7 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.panelInico = new System.Windows.Forms.Panel();
             this.pictureBoxPanal = new System.Windows.Forms.PictureBox();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.panelTitulo.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -104,12 +106,13 @@
             this.pictureBoxPanal.BackColor = System.Drawing.Color.Transparent;
             this.pictureBoxPanal.Cursor = System.Windows.Forms.Cursors.Default;
             this.pictureBoxPanal.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxPanal.Image")));
-            this.pictureBoxPanal.Location = new System.Drawing.Point(371, 191);
+            this.pictureBoxPanal.Location = new System.Drawing.Point(357, 180);
             this.pictureBoxPanal.Name = "pictureBoxPanal";
-            this.pictureBoxPanal.Size = new System.Drawing.Size(60, 50);
+            this.pictureBoxPanal.Size = new System.Drawing.Size(85, 73);
             this.pictureBoxPanal.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBoxPanal.TabIndex = 0;
             this.pictureBoxPanal.TabStop = false;
+            this.toolTip1.SetToolTip(this.pictureBoxPanal, "Lista de colmenas");
             this.pictureBoxPanal.Click += new System.EventHandler(this.pictureBoxPanal_Click);
             this.pictureBoxPanal.MouseLeave += new System.EventHandler(this.pictureBoxPanal_MouseLeave);
             this.pictureBoxPanal.MouseHover += new System.EventHandler(this.pictureBoxPanal_MouseHover);
@@ -146,6 +149,7 @@
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.Panel panelInico;
         private System.Windows.Forms.PictureBox pictureBoxPanal;
+        private System.Windows.Forms.ToolTip toolTip1;
     }
 }
 

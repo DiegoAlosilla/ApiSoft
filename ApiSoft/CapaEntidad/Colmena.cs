@@ -14,7 +14,6 @@ namespace CapaEntidad
         public string ubicacion { get; set; }
         public string tipo { get; set; }
         public int marcos { get; set; }
-        public PictureBox imagen { get; set;}
         public string descripcion { get; set; }
         public string tipo_abeja { get; set; }
     }
