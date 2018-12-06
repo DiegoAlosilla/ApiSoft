@@ -18,3 +18,9 @@ C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\obj\Debug\ApiSoft.cspr
 C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\obj\Debug\ApiSoft.csproj.CoreCompileInputs.cache
 C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\obj\Debug\ApiSoft.exe
 C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\obj\Debug\ApiSoft.pdb
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\bin\Debug\CapaNegocios.dll
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\bin\Debug\CapaDatos.dll
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\bin\Debug\CapaNegocios.pdb
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\bin\Debug\CapaDatos.pdb
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\obj\Debug\ApiSoft.FormListarColmenas.resources
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\obj\Debug\ApiSoft.csproj.CopyComplete

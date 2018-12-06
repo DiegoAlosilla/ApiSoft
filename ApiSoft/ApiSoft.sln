@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSoft", "ApiSoft\ApiSoft.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{623B47A4-AEA5-4846-AAFA-565703BD2371}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaEntidad", "CapaEntidad\CapaEntidad.csproj", "{512FA760-57CC-43DF-B52D-629CA4FB7319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocios", "CapaNegocios\CapaNegocios.csproj", "{A0B703A1-E408-404C-928E-4C294E0E6061}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{623B47A4-AEA5-4846-AAFA-565703BD2371}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{623B47A4-AEA5-4846-AAFA-565703BD2371}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{623B47A4-AEA5-4846-AAFA-565703BD2371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{512FA760-57CC-43DF-B52D-629CA4FB7319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512FA760-57CC-43DF-B52D-629CA4FB7319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512FA760-57CC-43DF-B52D-629CA4FB7319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512FA760-57CC-43DF-B52D-629CA4FB7319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B703A1-E408-404C-928E-4C294E0E6061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B703A1-E408-404C-928E-4C294E0E6061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B703A1-E408-404C-928E-4C294E0E6061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B703A1-E408-404C-928E-4C294E0E6061}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

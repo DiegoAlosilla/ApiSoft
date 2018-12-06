@@ -35,9 +35,9 @@
             // dataGridViewColmenas
             // 
             this.dataGridViewColmenas.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridViewColmenas.Location = new System.Drawing.Point(23, 35);
+            this.dataGridViewColmenas.Location = new System.Drawing.Point(12, 12);
             this.dataGridViewColmenas.Name = "dataGridViewColmenas";
-            this.dataGridViewColmenas.Size = new System.Drawing.Size(566, 338);
+            this.dataGridViewColmenas.Size = new System.Drawing.Size(776, 426);
             this.dataGridViewColmenas.TabIndex = 0;
             // 
             // FormListarColmenas

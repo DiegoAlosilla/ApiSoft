@@ -1,0 +1,9 @@
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\CapaNegocios\obj\Debug\CapaNegocios.pdb

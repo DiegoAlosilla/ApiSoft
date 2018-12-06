@@ -30,6 +30,14 @@ namespace ApiSoft
             pictureBoxPanal.Size = new Size(60, 50);
         }
 
+        private void pictureBoxPanal_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FormListarColmenas fmr = new FormListarColmenas();
+            fmr.ShowDialog();
+            
+        }
+
         private void panelTitulo_MouseMove(object sender, MouseEventArgs e)
         {
             if(e.Button!= MouseButtons.Left)

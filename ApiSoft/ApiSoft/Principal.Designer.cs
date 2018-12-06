@@ -110,6 +110,7 @@
             this.pictureBoxPanal.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBoxPanal.TabIndex = 0;
             this.pictureBoxPanal.TabStop = false;
+            this.pictureBoxPanal.Click += new System.EventHandler(this.pictureBoxPanal_Click);
             this.pictureBoxPanal.MouseLeave += new System.EventHandler(this.pictureBoxPanal_MouseLeave);
             this.pictureBoxPanal.MouseHover += new System.EventHandler(this.pictureBoxPanal_MouseHover);
             // 
