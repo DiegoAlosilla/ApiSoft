@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSoft", "ApiSoft\ApiSoft.csproj", "{E1855EEF-13FA-43C5-AF72-67947884A88D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{623B47A4-AEA5-4846-AAFA-565703BD2371}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E1855EEF-13FA-43C5-AF72-67947884A88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1855EEF-13FA-43C5-AF72-67947884A88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1855EEF-13FA-43C5-AF72-67947884A88D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{623B47A4-AEA5-4846-AAFA-565703BD2371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623B47A4-AEA5-4846-AAFA-565703BD2371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623B47A4-AEA5-4846-AAFA-565703BD2371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623B47A4-AEA5-4846-AAFA-565703BD2371}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

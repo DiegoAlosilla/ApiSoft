@@ -8,3 +8,13 @@ c:\users\usuario\source\repos\ApiSoft\ApiSoft\obj\Debug\ApiSoft.csproj.CoreCompi
 c:\users\usuario\source\repos\ApiSoft\ApiSoft\obj\Debug\ApiSoft.exe
 c:\users\usuario\source\repos\ApiSoft\ApiSoft\obj\Debug\ApiSoft.pdb
 c:\users\usuario\source\repos\ApiSoft\ApiSoft\obj\Debug\ApiSoft.Principal.resources
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\bin\Debug\ApiSoft.exe.config
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\bin\Debug\ApiSoft.exe
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\bin\Debug\ApiSoft.pdb
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\obj\Debug\ApiSoft.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\obj\Debug\ApiSoft.Principal.resources
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\obj\Debug\ApiSoft.Properties.Resources.resources
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\obj\Debug\ApiSoft.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\obj\Debug\ApiSoft.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\obj\Debug\ApiSoft.exe
+C:\Users\USUARIO\Documents\GitHub\ApiSoft\ApiSoft\ApiSoft\obj\Debug\ApiSoft.pdb
