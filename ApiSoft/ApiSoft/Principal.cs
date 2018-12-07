@@ -39,6 +39,11 @@ namespace ApiSoft
             
         }
 
+        private void panelTitulo_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
         private void panelTitulo_MouseMove(object sender, MouseEventArgs e)
         {
             if(e.Button!= MouseButtons.Left)
